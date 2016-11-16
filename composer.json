@@ -1,21 +1,16 @@
 {
-    "name":         "behat/mink-zombie-driver",
-    "description":  "Zombie.js driver for Mink framework",
-    "keywords":     ["zombie", "headless", "javascript", "ajax", "testing", "browser"],
+    "name":         "behat/mink-nightmare-driver",
+    "description":  "Nightmare.js driver for Mink framework",
+    "keywords":     ["nightmare", "headless", "javascript", "ajax", "testing", "browser"],
     "homepage":     "http://mink.behat.org/",
     "type":         "mink-driver",
     "license":      "MIT",
 
     "authors": [
         {
-            "name":      "Pascal Cremer",
-            "email":     "b00gizm@gmail.com",
-            "homepage":  "http://github.com/b00gizm"
-        },
-        {
-            "name":      "Konstantin Kudryashov",
-            "email":     "ever.zet@gmail.com",
-            "homepage":  "http://everzet.com"
+            "name":      "Yohzoh Matsui",
+            "email":     "dohzoh@gmail.com",
+            "homepage":  "https://github.com/dohzoh/"
         }
     ],
 
